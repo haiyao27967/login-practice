@@ -3,7 +3,7 @@ Practice on how to validate user input and ensure only authorised user can acces
 Also execise on how to use css to provide input feedback for user.
 
 # Live Demo
-click: https://login-practice-515.herokuapp.com/
+click: https://haiyao27967.github.io/login-practice/
 
 # Scripts
 

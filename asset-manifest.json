@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/login-practice/static/css/main.64812bc2.chunk.css",
-    "main.js": "/login-practice/static/js/main.04d9d160.chunk.js",
-    "main.js.map": "/login-practice/static/js/main.04d9d160.chunk.js.map",
+    "main.js": "/login-practice/static/js/main.72f87026.chunk.js",
+    "main.js.map": "/login-practice/static/js/main.72f87026.chunk.js.map",
     "runtime-main.js": "/login-practice/static/js/runtime-main.04e9a3e1.js",
     "runtime-main.js.map": "/login-practice/static/js/runtime-main.04e9a3e1.js.map",
-    "static/js/2.2d70c23c.chunk.js": "/login-practice/static/js/2.2d70c23c.chunk.js",
-    "static/js/2.2d70c23c.chunk.js.map": "/login-practice/static/js/2.2d70c23c.chunk.js.map",
+    "static/js/2.148a0d5a.chunk.js": "/login-practice/static/js/2.148a0d5a.chunk.js",
+    "static/js/2.148a0d5a.chunk.js.map": "/login-practice/static/js/2.148a0d5a.chunk.js.map",
     "index.html": "/login-practice/index.html",
     "static/css/main.64812bc2.chunk.css.map": "/login-practice/static/css/main.64812bc2.chunk.css.map",
-    "static/js/2.2d70c23c.chunk.js.LICENSE.txt": "/login-practice/static/js/2.2d70c23c.chunk.js.LICENSE.txt"
+    "static/js/2.148a0d5a.chunk.js.LICENSE.txt": "/login-practice/static/js/2.148a0d5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.04e9a3e1.js",
-    "static/js/2.2d70c23c.chunk.js",
+    "static/js/2.148a0d5a.chunk.js",
     "static/css/main.64812bc2.chunk.css",
-    "static/js/main.04d9d160.chunk.js"
+    "static/js/main.72f87026.chunk.js"
   ]
 }
